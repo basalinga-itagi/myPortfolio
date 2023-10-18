@@ -50,7 +50,7 @@ const Home = () => {
         </Fade>
       </div>
       <div>
-        <img src={hero} style={{ width: 300, height: 300 }} alt="" />
+        <img src={hero} alt="" />
       </div>
     </div>
   );
